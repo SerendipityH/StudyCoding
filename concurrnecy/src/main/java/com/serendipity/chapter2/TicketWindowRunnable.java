@@ -10,6 +10,7 @@ public class TicketWindowRunnable implements Runnable {
 
     private static int index = 1;
 
+    @Override
     public void run() {
         while (index <= Max){
             System.out.println(Thread.currentThread() + "当前的号码是:"+(index++));
