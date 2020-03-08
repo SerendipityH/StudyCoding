@@ -1,4 +1,4 @@
-package com.serendipity.singleton;
+package com.serendipity.chapter1.singleton;
 
 /**
  * @author serendipity
