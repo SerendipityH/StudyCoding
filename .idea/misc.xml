@@ -7,6 +7,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/concurrnecy/pom.xml" />
+        <option value="$PROJECT_DIR$/java8-sharing/pom.xml" />
+        <option value="$PROJECT_DIR$/Mybatis/pom.xml" />
       </list>
     </option>
   </component>

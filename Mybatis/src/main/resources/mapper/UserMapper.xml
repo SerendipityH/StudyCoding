@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.serendipity.mybatis.mapper.UserMapper">
+	<select id="findUserById"  resultType="user" >
+		SELECT * FROM user WHERE id like ${id}
+	</select>
+	<select id="findUserByName"  resultType="user" >
+	  SELECT * FROM user WHERE username like '%${username}%'
+</select>
+	<select id="findUser" resultType="user">
+		SELECT  * FROM  user WHERE username =#{username} and address =#{address}
+	</select>
+
+	<select id="findUserTwo" resultType="user">
+		SELECT  * FROM  user WHERE username = '${username}' and address = '${address}'
+	</select>
+</mapper>

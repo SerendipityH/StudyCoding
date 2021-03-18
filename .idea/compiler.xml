@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="concurrnecy" />
+        <module name="Mybatis" />
+        <module name="java8-sharing" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="concurrnecy" target="8" />
+      <module name="java8-sharing" target="1.5" />
+      <module name="Mybatis" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
