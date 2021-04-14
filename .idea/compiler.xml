@@ -13,8 +13,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="concurrnecy" target="8" />
-      <module name="java8-sharing" target="1.5" />
-      <module name="Mybatis" target="1.5" />
+      <module name="java8-sharing" target="8" />
+      <module name="Mybatis" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -20,5 +20,7 @@ public class Java8Test {
         //Collections.sort(numbers,(s1,s2)->s1.compareTo(s2));
         numbers.sort(Integer::compareTo);
         System.out.println(numbers);
+
+
     }
 }
