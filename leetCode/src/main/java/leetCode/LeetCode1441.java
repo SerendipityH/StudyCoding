@@ -1,4 +1,4 @@
-package com.serendipity.java8;
+package leetCode;
 
 import java.util.ArrayList;
 import java.util.List;

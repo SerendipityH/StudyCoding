@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/StudyCoding.iml" filepath="$PROJECT_DIR$/.idea/StudyCoding.iml" />
       <module fileurl="file://$PROJECT_DIR$/concurrnecy/concurrnecy.iml" filepath="$PROJECT_DIR$/concurrnecy/concurrnecy.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8-sharing/java8-sharing.iml" filepath="$PROJECT_DIR$/java8-sharing/java8-sharing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetCode/leetCode.iml" filepath="$PROJECT_DIR$/leetCode/leetCode.iml" />
     </modules>
   </component>
 </project>
