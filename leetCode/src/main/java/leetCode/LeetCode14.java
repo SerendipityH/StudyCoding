@@ -11,10 +11,8 @@ public class LeetCode14 {
         if(strs==null){
             return "";
         }
-        StringBuffer sb = new StringBuffer(strs[0]);
+        StringBuilder sb = new StringBuilder(strs[0]);
 
-
-        fl
 
         for (int j = 1;j<strs.length;j++){
             while (!strs[j].startsWith(sb.toString())){
