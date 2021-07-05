@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/concurrnecy/concurrnecy.iml" filepath="$PROJECT_DIR$/concurrnecy/concurrnecy.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8-sharing/java8-sharing.iml" filepath="$PROJECT_DIR$/java8-sharing/java8-sharing.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetCode/leetCode.iml" filepath="$PROJECT_DIR$/leetCode/leetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/src/main/main.iml" filepath="$PROJECT_DIR$/Spring/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/src/test/test.iml" filepath="$PROJECT_DIR$/Spring/src/test/test.iml" />
     </modules>
   </component>
 </project>
