@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mybatis/Mybatis.iml" filepath="$PROJECT_DIR$/Mybatis/Mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Spring.iml" filepath="$PROJECT_DIR$/Spring/Spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/StudyCoding.iml" filepath="$PROJECT_DIR$/.idea/StudyCoding.iml" />
       <module fileurl="file://$PROJECT_DIR$/concurrnecy/concurrnecy.iml" filepath="$PROJECT_DIR$/concurrnecy/concurrnecy.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8-sharing/java8-sharing.iml" filepath="$PROJECT_DIR$/java8-sharing/java8-sharing.iml" />

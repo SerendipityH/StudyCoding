@@ -8,9 +8,6 @@
         http://www.springframework.org/schema/aop
         http://www.springframework.org/schema/aop/spring-aop.xsd">
 
-	<!-- <bean id="HelloIoc" class="com.serendipity.springIoc.HelloIoC"></bean> -->
-
-
 	<bean id="service"
 		class="com.serendipity.springAop.TestServiceImpl"></bean>
 

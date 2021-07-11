@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="concurrnecy" />
         <module name="Mybatis" />
+        <module name="Spring" />
         <module name="java8-sharing" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="java8-sharing" target="1.5" />
       <module name="leetCode2" target="1.5" />
       <module name="Mybatis" target="1.5" />
+      <module name="Spring" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

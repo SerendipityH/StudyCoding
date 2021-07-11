@@ -1,5 +1,7 @@
 package leetCode;
 
+import java.util.UUID;
+
 /**
  * @author serendipity
  * @version 1.0
@@ -36,6 +38,7 @@ public class LeetCode13 {
     }
 
     public static void main(String[] args) {
+        System.out.println(UUID.randomUUID());
         System.out.println(romanToInt("III"));
     }
 
