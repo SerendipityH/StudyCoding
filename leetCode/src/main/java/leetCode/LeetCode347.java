@@ -20,7 +20,6 @@ public class LeetCode347 {
         map.forEach((key, value) -> {
             if (bucket[value] == null) {
                 bucket[value] = new ArrayList<>();
-                ;
             }
             bucket[value].add(key);
         });
