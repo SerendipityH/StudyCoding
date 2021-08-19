@@ -14,6 +14,7 @@ import org.springframework.core.io.ClassPathResource;
  */
 public class HelloIOC {
     public static void main(String[] args) {
+
         ApplicationContext applicationContext = new ClassPathXmlApplicationContext("spring-ioc.xml");
         User user = (User)applicationContext.getBean("user");
         System.out.println(user);
